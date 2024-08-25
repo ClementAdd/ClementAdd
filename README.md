@@ -1,3 +1,3 @@
 ### Clément
 
-Mastère 1 Mobile, IOT et Logiciel à Toulouse Ynov Campus && alternant chez Atos en développement mobile
+Mastère 2 Mobile, IOT et Logiciel à Toulouse Ynov Campus && alternant chez Sopra Steria en développement d'app mobile
